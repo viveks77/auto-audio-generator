@@ -1,0 +1,7 @@
+videos
+*.mp3
+*.mp4
+*.ass
+__pycache__
+fonts
+*.png
